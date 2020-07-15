@@ -5,7 +5,7 @@ Printing ip, date and calendar
 <pre>
 <?php
 
-print `ifconfig`;
+print `ifconfig`
 print `date`;
 print `cal`;
 ?>
