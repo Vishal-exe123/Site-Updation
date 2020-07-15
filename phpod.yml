@@ -44,7 +44,7 @@ spec:
         app: php
     spec:
       containers:
-      - image: vish1234/apache-php-python:v1
+      - image: vimal13/apache-webserver-php
         name: php
         ports:
         - containerPort: 32000
